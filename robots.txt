@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://terracechaser1e.github.io/sz-f67/sitemap.xml
